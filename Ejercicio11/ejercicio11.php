@@ -2,6 +2,8 @@
 $resultado = null;
 $error = "";
 
+/* poner despues algo para que se vean bien las sumas, el segundo numero en chiquito */
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $numero1 = (float) $_POST["numero1"];
     $numero2 = (float) $_POST["numero2"];
