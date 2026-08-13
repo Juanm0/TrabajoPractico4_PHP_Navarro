@@ -1,6 +1,6 @@
 <?php
 
-$numero = 8;
+$numero = 9;
 
 if ($numero == 0) {
     echo "El número es cero.";
