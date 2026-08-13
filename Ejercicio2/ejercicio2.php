@@ -1,7 +1,7 @@
 <?php
 
-$numero1 = 10;
-$numero2 = 5;
+$numero1 = 40;
+$numero2 = 50;
 
 echo "Suma: " . ($numero1 + $numero2) . "<br>";
 echo "Resta: " . ($numero1 - $numero2) . "<br>";
