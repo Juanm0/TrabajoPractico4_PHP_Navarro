@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
+<head><!-- tal vez podria hacer un navbar para navegar por los otros proyectos tambien -->
     <meta charset="UTF-8">
     <title>TP4 PHP - Navarro</title>
     <style>
