@@ -8,7 +8,7 @@
 
 <?php
 $titulo = "Mi primera página con PHP";
-$parrafo = "Esta página combina HTML y PHP para generar contenido dinámicamente.";
+$parrafo = "Esta pagina NO fue hecha por Chat gpt. Despues chequeo si agarra del h1 al h6";
 
 echo "<h1>$titulo</h1>";
 echo "<p>$parrafo</p>";
