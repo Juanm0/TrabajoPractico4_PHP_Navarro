@@ -10,8 +10,8 @@
 $alumnos = [
     "Juan",
     "Pilar",
-    "Juan2",
-    pruebas
+    "Maria (DB)",
+    "Esteban"
 ];
 
 echo "<h1>Lista de alumnos</h1>";
