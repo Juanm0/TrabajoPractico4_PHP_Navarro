@@ -9,8 +9,8 @@
 <?php
 $productos = [
     ["nombre" => "Mouse", "precio" => 15000],
-    ["nombre" => "Teclado", "precio" => 25000],
-    ["nombre" => "Monitor", "precio" => 180000]
+    ["nombre" => "Teclado T-Dagger Bora", "precio" => 45000],//el que tengo yo, sale eso masomenos jajaj
+    ["nombre" => "Monitor 27 pulgadas", "precio" => 180000]
 ];
 
 echo "<h1>Productos</h1>";
