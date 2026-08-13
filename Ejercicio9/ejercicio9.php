@@ -9,10 +9,9 @@
 <?php
 $alumnos = [
     "Juan",
-    "Martina",
-    "Lucas",
-    "Sofía",
-    "Mateo"
+    "Pilar",
+    "Juan2",
+    pruebas
 ];
 
 echo "<h1>Lista de alumnos</h1>";

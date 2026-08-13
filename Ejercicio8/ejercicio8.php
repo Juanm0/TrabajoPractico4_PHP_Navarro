@@ -11,6 +11,7 @@ $titulo = "Mi primera página con PHP";
 $parrafo = "Esta pagina NO fue hecha por Chat gpt. Despues chequeo si agarra del h1 al h6";
 
 echo "<h1>$titulo</h1>";
+/* echo "<h6>$titulo</h6>"; */
 echo "<p>$parrafo</p>";
 ?>
 
